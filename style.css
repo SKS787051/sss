@@ -44,8 +44,8 @@ color:#fff;
 nav {
     width: 100%;
    position: relative;
-   top: -200px;
-   left: 0;
+   top: -250px;
+   left: 500px;
    padding: 2px 50%;
    display: flex;
    align-items: center;
